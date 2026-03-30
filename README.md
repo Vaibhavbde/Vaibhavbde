@@ -1,6 +1,5 @@
 # 💫 About Me:
-Jack of all trades
-
+jack of all trades master of none
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vaibhav-badade-874661251/) 
