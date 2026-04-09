@@ -1,5 +1,9 @@
 # 💫 About Me:
-ace of jack/diamond of all trades master of none
+Creative and detail-oriented Computer Engineering student at Vidyalankar Polytechnic with hands-on 
+experience in UI/UX design using Figma, web development (HTML & CSS), and interactive media. 
+Passionate about crafting user-friendly interfaces, intuitive navigation flows, and visually compelling 
+digital experiences. Seeking a UI/UX design role where I can apply design thinking, visual storytelling, 
+and technical skills to build products that users love.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vaibhav-badade-874661251/) 
