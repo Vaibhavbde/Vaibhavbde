@@ -4,6 +4,12 @@
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vaibhavb883@gmail.com) 
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=vaibhavbde&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=vaibhavbde&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=vaibhavbde&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=vaibhavbde&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
