@@ -13,8 +13,8 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=vaibhavbde&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
----
-[![](https://komarev.com/ghpvc/?username=vaibhavbde&icon=2&color=1)](https://visitcount.itsvg.in)
+__
+![](https://komarev.com/ghpvc/?username=Vaibhavbde &icon=0&color=0)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Thank+You+For+Visiting!)](https://git.io/typing-svg)
