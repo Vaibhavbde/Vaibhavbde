@@ -9,6 +9,8 @@
 ![](https://streak-stats.demolab.com/?user=vaibhavbde&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=vaibhavbde&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/vaibhavbadade)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=vaibhavbde&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
