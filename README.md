@@ -26,4 +26,13 @@
 
 ---
 [![](https://komarev.com/ghpvc/?username=vaibhavbde&icon=2&color=1)](https://visitcount.itsvg.in)
+## My GitHub Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vaibhavbde/Vaibhavbde/output/pacman-contribution-graph-dark.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Vaibhavbde/Vaibhavbde/output/pacman-contribution-graph.svg">
+</picture>
+
+
+
 
